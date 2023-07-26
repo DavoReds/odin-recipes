@@ -1,0 +1,29 @@
+body {
+  font-family: "Tahoma", sans-serif;
+  color: hsl(226, 64%, 88%);
+  background-color: hsl(240, 21%, 15%);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Garamond", serif;
+}
+
+img {
+  height: auto;
+  width: 40rem;
+}
+
+p,
+li {
+  max-width: 60rem;
+}
+
+small {
+  color: hsl(226, 64%, 70%);
+  font-style: italic;
+}
